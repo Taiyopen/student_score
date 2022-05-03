@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1651584006 source:c:\users\taiyo\desktop\student_score\main.c
+	"main.h"
+	"readfile.h"
+	"array.h"
+	"function.h"
+
+1651475097 c:\users\taiyo\desktop\student_score\main.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1651583927 source:c:\users\taiyo\desktop\student_score\readfile.c
+	"readfile.h"
+
+1651582991 c:\users\taiyo\desktop\student_score\readfile.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string.h>
+
+1651583804 source:c:\users\taiyo\desktop\student_score\array.c
+	"readfile.h"
+	"array.h"
+
+1651570326 c:\users\taiyo\desktop\student_score\array.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
+1651584045 source:c:\users\taiyo\desktop\student_score\function.c
+	"function.h"
+
+1651584061 c:\users\taiyo\desktop\student_score\function.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"readfile.h"
+
